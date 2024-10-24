@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $password = "";
-$dbname = "dreamjob"; // Updated to 'dreamjob'
+$dbname = "dreamjob"; 
 $dsn = "mysql:host={$host};dbname={$dbname}";
 
 try {
